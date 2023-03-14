@@ -1,0 +1,9 @@
+header {
+    display: flex;
+    background-color: #171718;;
+    width: auto;
+    height: 60px;
+    justify-content: flex-end;
+    padding-right: 55px;
+}
+
